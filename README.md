@@ -43,6 +43,8 @@ This project analyzes customer demographics and purchasing behavior using Micros
 - Customer Commute Distance
 
 ---
+<img width="461" height="331" alt="Screenshot 2026-08-02 015145" src="https://github.com/user-attachments/assets/1ce8e2d1-1dda-4ca1-9edc-8639f31903bb" />
+
 
 ## Key Insights
 
