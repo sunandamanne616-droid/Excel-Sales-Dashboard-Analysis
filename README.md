@@ -66,12 +66,6 @@ This project analyzes customer demographics and purchasing behavior using Micros
 
 ---
 
-## Dashboard Preview
-
-![Dashboard](Dashboard.png)
-
----
-
 ## Future Improvements
 
 - Add KPI Cards
